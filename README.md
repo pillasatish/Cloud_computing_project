@@ -18,6 +18,12 @@ The dataset in our projects:
 **Code**
 
 The TerpixelEvalution_B21047209_SATISH_PILLA.IPNYB file contains the source code for the entire project. For every line of the code there is clear instruction of why were are running the particular code block.
+Table of contents:
+1)Introduction
+2)Importing all necessary libraries
+3)Uploading all the TeraScope files 
+   The TeraScope files can be uploaded by using files.upload() command or you can simple go to files and upload your files.
+
 
 
 **Abstract**
