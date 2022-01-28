@@ -1,0 +1,95 @@
+commit 76d6e74bd558199edbb697406e6672bc7903a93b
+Author: SATISH <pillasatish7@gmail.com>
+Date:   Fri Jan 28 05:19:29 2022 +0000
+
+    final code file
+
+commit 74bd9f5756228311a023696c527c79dd02ccf16a
+Author: SATISH <pillasatish7@gmail.com>
+Date:   Fri Jan 28 02:22:50 2022 +0000
+
+    updated Readme file
+
+commit 4cae7ccd1135605c92a70fab76090e23e8144210
+Author: SATISH <pillasatish7@gmail.com>
+Date:   Fri Jan 28 02:22:04 2022 +0000
+
+    converted report into pdf document
+
+commit 8c5908d191028ca6305223a788a6d982e1026743
+Author: SATISH <pillasatish7@gmail.com>
+Date:   Fri Jan 28 02:21:06 2022 +0000
+
+    converted abstract word doc into pdf document
+
+commit 5007870551ae2fd2c7c5c48b5233926de9b48569
+Author: SATISH <pillasatish7@gmail.com>
+Date:   Fri Jan 28 01:40:27 2022 +0000
+
+    completed writing report and abstract
+
+commit 087a87445a8e57b7a4e50b428d341e9775aa2a6a
+Author: SATISH <pillasatish7@gmail.com>
+Date:   Thu Jan 27 01:46:25 2022 +0000
+
+    created a Readme file
+
+commit ad0e60cf7ff60ade4cc13b736e27e5789ee529c2
+Author: SATISH <pillasatish7@gmail.com>
+Date:   Thu Jan 27 01:45:44 2022 +0000
+
+    started writing the report
+
+commit de69d6827fb7209e25a640cf77b1030871f42eee
+Author: SATISH <pillasatish7@gmail.com>
+Date:   Thu Jan 27 01:44:48 2022 +0000
+
+    plotted interplay between render time and power drawn
+
+commit 71e64e0df214fb9b612fe216effa4e1652b6352a
+Author: SATISH <pillasatish7@gmail.com>
+Date:   Tue Jan 25 23:59:53 2022 +0000
+
+     trying to merge all three files
+
+commit 572febe9dc8418fc28a4c74ba070176d781c330d
+Author: SATISH <pillasatish7@gmail.com>
+Date:   Wed Jan 19 06:17:35 2022 +0000
+
+    analysis three finished
+
+commit b551302a8f23ba17e69d0611cb944389b76a39f1
+Author: SATISH <pillasatish7@gmail.com>
+Date:   Wed Jan 19 04:24:20 2022 +0000
+
+    started analysis 3 correlation between different parameters in the GPU dataset
+
+commit 7546610bb080d1587caaef05cff59c3aec7385f3
+Author: SATISH <pillasatish7@gmail.com>
+Date:   Tue Jan 18 05:23:53 2022 +0000
+
+    completed analysis part 2
+
+commit 2072bc38fe7ca2aa5d8c9b61328111a3529b3673
+Author: SATISH <pillasatish7@gmail.com>
+Date:   Tue Jan 18 00:44:22 2022 +0000
+
+    Analyzed which type is dominating the run time
+
+commit 9933e8d71cdafb08ea964dc487b8b35184250102
+Author: SATISH <pillasatish7@gmail.com>
+Date:   Mon Jan 17 15:55:53 2022 +0000
+
+    finished introduction and started EDA analysis
+
+commit b998c081902ed8d31a083d4c0841eaa277eed5ce
+Author: SATISH <pillasatish7@gmail.com>
+Date:   Mon Jan 17 06:51:53 2022 +0000
+
+    started preparing the document, Introduction completed
+
+commit 0844ecce5dcc93347192c2771ef3121d93eb50d3
+Author: SATISH <pillasatish7@gmail.com>
+Date:   Mon Jan 17 06:51:01 2022 +0000
+
+    started cloud computing project, loaded the dataset done some desriptive analysis
