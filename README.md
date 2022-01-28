@@ -93,8 +93,3 @@ B210472095_SATISH_PILLA_CLOUD_COMPUTING_REPORT.pdf is the overall report of the 
 
 8 Reference	
 
-
-<<<<<<< HEAD
-=======
-
->>>>>>> 1351bf5e1fbccc8132b83d95b3b08f4ffc18ad56
